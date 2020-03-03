@@ -1,0 +1,15 @@
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded.csprojResolveAssemblyReference.cache
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\MainWindow.g.cs
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\App.g.cs
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded_MarkupCompile.cache
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded_MarkupCompile.lref
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\bin\Debug\WPFGraded.exe.config
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\bin\Debug\WPFGraded.exe
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\bin\Debug\WPFGraded.pdb
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\MainWindow.baml
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded.g.resources
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded.Properties.Resources.resources
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded.csproj.GenerateResource.cache
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded.csproj.CoreCompileInputs.cache
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded.exe
+C:\Users\asger\source\repos\WPFGraded\WPFGraded\obj\Debug\WPFGraded.pdb
